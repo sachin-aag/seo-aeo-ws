@@ -1,0 +1,35 @@
+{
+  "@context": "https://schema.org",
+  "@type": "LocalBusiness",
+  "name": "YOUR_BUSINESS_NAME",
+  "description": "ONE_SENTENCE_DESCRIPTION",
+  "url": "https://yourdomain.com",
+  "telephone": "+491234567890",
+  "email": "hello@yourdomain.com",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "YOUR_STREET_AND_NUMBER",
+    "addressLocality": "YOUR_CITY",
+    "postalCode": "YOUR_POSTAL_CODE",
+    "addressCountry": "DE"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": 48.7758,
+    "longitude": 9.1829
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
+      "opens": "09:00",
+      "closes": "18:00"
+    }
+  ],
+  "image": "https://yourdomain.com/images/storefront.jpg",
+  "priceRange": "€€",
+  "sameAs": [
+    "https://www.linkedin.com/company/your-company",
+    "https://www.instagram.com/your-handle"
+  ]
+}
