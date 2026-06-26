@@ -80,7 +80,7 @@ Fill in the start date, then check off each action as you complete it. The goal 
 ### Week 5: Publish piece 2 (FAQ/informational)
 
 - [ ] Topic: _______________
-- [ ] FAQ section built using `skills/faq-builder`
+- [ ] FAQ section added (4–5 direct Q&A pairs)
 - [ ] FAQPage JSON-LD added
 - [ ] Published — URL: _______________
 - [ ] Indexing requested

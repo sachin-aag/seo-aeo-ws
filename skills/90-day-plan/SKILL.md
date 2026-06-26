@@ -57,7 +57,7 @@ Week 4: Write and publish piece 1 (bottom-of-funnel)
 
 Week 5: Write and publish piece 2 (FAQ/informational)
 - Informational intent, targeting a question your audience asks
-- Use `faq-builder` to build the FAQ section
+- Use `content-rewriter` to build the FAQ section (4–5 direct Q&A pairs)
 - Add FAQPage JSON-LD
 
 Week 6: Restructure top existing pages

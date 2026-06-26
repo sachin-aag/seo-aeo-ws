@@ -67,7 +67,7 @@ Google detects link spam and penalises sites that use it.
 If the piece has no FAQ section, add one at the end with 4–5 direct Q&A pairs.
 If it has one, check that each answer starts with a direct response in the first sentence. Fix any that don't.
 
-See `skills/faq-builder/` for guidance on generating questions and writing direct answers.
+Good FAQ questions come from real reader objections — pricing, timing, fit, process, and "how is this different from X?" Each answer should open with a direct response, not a hedge or restatement of the question.
 
 ### 5. Fix the title (if it's vague)
 

@@ -82,7 +82,7 @@ Paste your content and it highlights: passive voice, overly complex sentences, a
 Start here: [hemingwayapp.com](https://hemingwayapp.com)
 
 **Claude Code + this repo's skills** — what you're already using
-The `humanise`, `content-rewriter`, `faq-builder`, and `content-brief` skills in this repo handle most content optimization tasks. No separate tool needed.
+The `humanise`, `content-rewriter`, and `content-brief` skills in this repo handle most content optimization tasks. No separate tool needed.
 
 ---
 

@@ -10,8 +10,8 @@ The companion repo to the workshop by [Narayanan (Rayn)](https://github.com/nara
 
 | Folder | What it contains |
 |--------|-----------------|
-| [`skills/`](skills/) | 11 Claude Code skills — install and run in your terminal |
-| [`prompts/`](prompts/) | Same 11 prompts as plain text — copy-paste into any LLM |
+| [`skills/`](skills/) | 10 Claude Code skills — install and run in your terminal |
+| [`prompts/`](prompts/) | Same 10 prompts as plain text — copy-paste into any LLM |
 | [`best-practices.md`](best-practices.md) | Technical checklist + content do/don't guide |
 | [`worksheets/`](worksheets/) | Topic map builder, 90-day tracker |
 | [`checklists/`](checklists/) | Pre-publish checklist, monthly SEO cadence |
@@ -20,7 +20,7 @@ The companion repo to the workshop by [Narayanan (Rayn)](https://github.com/nara
 
 ---
 
-## The 11 skills
+## The 10 skills
 
 | Skill | What it does |
 |-------|-------------|
@@ -29,7 +29,6 @@ The companion repo to the workshop by [Narayanan (Rayn)](https://github.com/nara
 | [`content-brief`](skills/content-brief/) | Generate a full content brief for a target topic |
 | [`meta-optimizer`](skills/meta-optimizer/) | Write or rewrite your title tag and meta description |
 | [`schema-generator`](skills/schema-generator/) | Generate JSON-LD structured data for any page type |
-| [`faq-builder`](skills/faq-builder/) | Extract and format a citable FAQ block |
 | [`content-rewriter`](skills/content-rewriter/) | Restructure existing content for AI citability |
 | [`geo-check`](skills/geo-check/) | Check your AI visibility across ChatGPT and Perplexity |
 | [`backlink-gap`](skills/backlink-gap/) | Find where competitors are cited and you're not |
